@@ -1,0 +1,1 @@
+READ ME:- For this project I have extracted the temperature data from the original csv file and created a new csv file containing only temperature data as I was facing some issues while saving the file on my system. You can verify that it is the same data which was allocated to me.
